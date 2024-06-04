@@ -1,0 +1,25 @@
+body.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode .MuiPaper-root {
+  background-color: #424242;
+  color: #fff;
+}
+
+.dark-mode .MuiTableCell-root {
+  color: #fff;
+}
+
+.dark-mode .MuiButton-root {
+  color: #fff;
+}
+
+.dark-mode .MuiTextField-root {
+  color: #fff;
+}
+
+.dark-mode .MuiTextField-root .MuiInputBase-input {
+  color: #fff;
+}
